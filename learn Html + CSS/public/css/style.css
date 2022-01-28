@@ -1,5 +1,6 @@
 .indexH1{
   color: red;
+  text-align: center;
 }
 #account{
   color: blue;
@@ -31,4 +32,12 @@ li {
 }
 a {
   text-decoration: none;
+}
+main {
+  background-color: grey;
+  margin: 50px 50px 50px 50px;
+  padding: 10px 10px 10px 10px;
+}
+article{
+  border-bottom:  5px solid white;
 }
