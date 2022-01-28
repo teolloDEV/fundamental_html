@@ -1,0 +1,34 @@
+.indexH1{
+  color: red;
+}
+#account{
+  color: blue;
+}
+.warna{
+  color: blue;
+}
+
+#indexBody {
+  background-color: rgb(153,102,153);
+  color: rgb(255,255,204);
+  margin:0px;
+}
+#bodyForm, #bodyHome {
+  background-image: url(../img/white_bg.jpg);
+}
+div{
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+  background-color: grey;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: inline;
+  margin :5px;
+}
+a {
+  text-decoration: none;
+}
