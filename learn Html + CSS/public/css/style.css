@@ -41,3 +41,15 @@ main {
 article{
   border-bottom:  5px solid white;
 }
+
+
+.footer {
+  background-color: grey;
+  padding: 20px;
+  text-align: center;
+
+}
+
+h5{
+  text-align: center;
+}
